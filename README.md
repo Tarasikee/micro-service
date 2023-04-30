@@ -1,1 +1,1 @@
-# micro-service
+# Microservice architecture
