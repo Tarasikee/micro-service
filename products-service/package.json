@@ -1,0 +1,9 @@
+{
+  "name": "products-service",
+  "description": "Products service",
+  "scripts": {
+    "service:products": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "Tarasikee"
+}
